@@ -3,3 +3,5 @@ tf-nightly
 numpy
 pillow
 h5py
+reportlab
+pandas
